@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.tsx": "typescriptreact",
+        "xiosbase": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
